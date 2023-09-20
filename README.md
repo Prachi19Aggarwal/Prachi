@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning *Python*
 
-- 🤝 I'm working on *Abaca Systems Private Limited, Mohali*
+- 🤝 I'm Currently working in a *Abaca Systems Private Limited, Mohali*
 
-- 💬 Ask me about *Database Services*
+- 💬 Ask me about * Oracle Database Services*
 
 - 📫 How to reach me *prachiaggarwal608@gmail.com*
 
