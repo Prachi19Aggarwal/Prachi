@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on *Deep learning*
+- 🔭 I’m currently working as *Oracle Database Administrator*
 
-- 🌱 I’m currently learning *C++*
+- 🌱 I’m currently learning *Python*
 
-- 🤝 I'm working on *Traffic management using AI*
+- 🤝 I'm working on *Abaca Systems Private Limited, Mohali*
 
-- 💬 Ask me about *C*
+- 💬 Ask me about *Database Services*
 
 - 📫 How to reach me *prachiaggarwal608@gmail.com*
 
